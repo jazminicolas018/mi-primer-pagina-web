@@ -1,0 +1,16 @@
+    body {
+        background-color: bisque;
+        border: 2px solid #162cd2;
+        /* Cambia #000 al color que desees para el borde */
+        padding: 100px;
+        /* Opcional: agrega un espacio de relleno dentro del borde */
+        background-color: rgb(214, 87, 94);
+    }
+    
+    p {
+        background-color: rgb(195, 124, 172);
+    }
+    
+    h1 {
+        color: brown;
+    }
